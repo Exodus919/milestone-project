@@ -1,0 +1,64 @@
+body {
+  font-family: 'ubuntu';
+}
+
+header {
+  height: 800px;
+  background: url('../img/hero.png');
+  background-size: cover;
+}
+
+header h1 {
+  font-family: 'Roboto Slab', serif;
+  color: #bdbf09;
+  padding: 400px 0px 65px 25px;
+}
+
+#work {
+  height: 1450px;
+  border-width: 1px;
+}
+
+#work img {
+  padding: 0px 0px 25px 0px
+}
+
+#work h3 {
+  padding: 100px 0 25px 25px;
+}
+
+#work p{
+  padding: 150px 0px 25px 25px;
+  float: left;
+}
+
+#about {
+  background-color: #6699ff;
+  height: 650px;
+}
+
+#about img{
+  padding-top: 20px;
+}
+
+#contact {
+background-color: #0066ff;
+height: 400px;
+padding-top: 50px;
+color: white;
+}
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.half-width {
+width: 550px;
+float: left;
+}
+
+.third-width {
+  width: 400px;
+  float: left;
+}
